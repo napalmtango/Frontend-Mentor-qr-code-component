@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: hsl(212, 45%, 89%);
+  font-family: outfit;
+  font-size: 15px;
+}
+
+.container {
+  background-color: white;
+  width: 288px;
+  height: 468px;
+  border-radius: 18px;
+  margin: auto;
+  padding: 16px;
+}
+
+.code {
+  width: 288px;
+  height: 288px;
+  border-radius: 9px;
+  overflow: hidden;
+}
+
+.headline {
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 22px;
+}
+
+.copy {
+  margin: 16px 20px;
+  text-align: center;
+  font-weight: 400;
+}/*# sourceMappingURL=styles.css.map */
